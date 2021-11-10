@@ -2,6 +2,7 @@
 layout: poem
 title: Dreams
 author: Langston Hughes
+publication_date: 1927
 editor: Alex Gil
 source: Project Guttenberg
 ---
