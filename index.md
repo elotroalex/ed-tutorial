@@ -15,10 +15,10 @@ Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based
 
 ### Poems
   
-- [Delayed till she had ceased to know](https://elotroalex.github.io/ed/texts/delayed/)
-- [A Julia de Burgos](https://elotroalex.github.io/ed/texts/a-julia/)
+- [Delayed till she had ceased to know](https://elotroalex.github.io/ed-tutorial/texts/delayed/)
+- [A Julia de Burgos](https://elotroalex.github.io/ed-tutorial/texts/a-julia/)
 
 ### Narrative
 
-- [Narrative of the Life](https://elotroalex.github.io/ed/texts/narrative/)
+- [Narrative of the Life](https://elotroalex.github.io/ed-tutorial/texts/narrative/)
 
